@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center" color="green">
 ```text
  _    _      _                            _
 | |  | |    | |                          | |
@@ -39,6 +40,8 @@ ___  ___    ___  ___           _   _                _
                                      | |
                                      |_|
 ```
+</div>
+
 
 
 <div align="center">
