@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Penetration+Tester;Red+Team+Member;Bug+Bounty+Hunter" alt="Typing animation" />
-</div>                      
+</div>
+
 ```markdown
 ### Hacker Effect
 ```python
