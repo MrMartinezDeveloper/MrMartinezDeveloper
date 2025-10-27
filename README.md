@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" color="green">
+```
 +                                                                                                                        
  █████   ███   █████          ████                                                 █████                                 
 ▒▒███   ▒███  ▒▒███          ▒▒███                                                ▒▒███                                  
@@ -51,9 +51,7 @@ Here are some ideas to get you started:
                                                                                █████                                     
                                                                               ▒▒▒▒▒                                      +
 
-</div>
-
-
+```
 
 <div align="center">
   <img src="https://i.imgur.com/ejemplo.jpg" alt="Hacker Banner" width="800" />
