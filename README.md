@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/ejemplo.jpg" alt="Hacker Banner" width="800" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.aiYqWfU2qkHgCrTZSmPFYAHaEO?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Hacker Banner" width="800" />
 </div>
 
 <div align="center">
