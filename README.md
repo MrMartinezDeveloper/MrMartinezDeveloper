@@ -14,9 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-¡Perfecto! Aquí tienes el código completo a partir de la sección **Hacker Effect**, con todo lo que falta y algunos extras para que tu README.md quede **completamente profesional y llamativo**:
-
+ _    _      _                            _                    
+| |  | |    | |                          | |                   
+| |  | | ___| | ___ ___  _ __ ___   ___  | |_ ___              
+| |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \             
+\  /\  /  __/ | (_| (_) | | | | | |  __/ | || (_) |  _   _   _ 
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  (_) (_) (_)
+                                                               
+                                                               
+___  ___    ___  ___           _   _                _          
+|  \/  |    |  \/  |          | | (_)              ( )         
+| .  . |_ __| .  . | __ _ _ __| |_ _ _ __   ___ ___|/ ___      
+| |\/| | '__| |\/| |/ _` | '__| __| | '_ \ / _ \_  / / __|     
+| |  | | |  | |  | | (_| | |  | |_| | | | |  __// /  \__ \     
+\_|  |_/_|  \_|  |_/\__,_|_|   \__|_|_| |_|\___/___| |___/     
+                                                               
+                                                               
+ _____                _    ______                              
+|  __ \              | |   | ___ \                             
+| |  \/_ __ ___  __ _| |_  | |_/ /___ _ __   ___               
+| | __| '__/ _ \/ _` | __| |    // _ \ '_ \ / _ \              
+| |_\ \ | |  __/ (_| | |_  | |\ \  __/ |_) | (_) |             
+ \____/_|  \___|\__,_|\__| \_| \_\___| .__/ \___/              
+                                     | |                       
+                                     |_|                       
 ```markdown
 ### Hacker Effect
 ```python
@@ -118,13 +139,3 @@ nmap -A -T4 target.com
 ### 📊 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/tuusuario/count.svg)
 ```
-
----
-
-### ¿Qué debes hacer ahora?
-1. **Reemplaza `tuusuario`** por tu nombre de usuario de GitHub en todos los enlaces, badges y estadísticas.
-2. **Personaliza los logros, certificaciones y redes sociales** con tus datos reales.
-3. **Para el badge de TryHackMe**: Ve a tu perfil en TryHackMe, copia el enlace de tu badge y reemplaza el enlace en el código.
-4. **Para el contador de visitantes**: Usa [profile-counter.glitch.me](https://profile-counter.glitch.me/) para generar tu propio contador.
-
-¿Quieres que añada algo más, como un **banner personalizado**, una **sección de proyectos destacados**, o más **snippets de código útil**? ¡Dímelo!
