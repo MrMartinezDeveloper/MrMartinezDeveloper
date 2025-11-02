@@ -26,7 +26,7 @@ $ cat ./message.txt
 Welcome to my profile!
 
 $ █
-
+```
 📬 Contact & Socials
 <div align="center">
 <a href="https://es.linkedin.com/in/mrmartinezfullstack?trk=people-guest_people_search-card">
