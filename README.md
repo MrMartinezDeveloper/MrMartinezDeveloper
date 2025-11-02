@@ -1,31 +1,12 @@
-Hi there, I'm Mr Martinez 👋
+Hi there, I'm MrMartinez 👋
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Penetration+Tester;Red+Team+Operator;Bug+Bounty+Hunter" alt="Typing animation" />
 </div>
 
-
-
-```bash
-$ whoami
-MrMartinezDeveloper
-
-$ cat ./profile.txt
-I am a Cybersecurity Engineer and Pentester passionate about offensive security.
-My goal is to identify and exploit vulnerabilities to help organizations
-strengthen their security posture.
-
-$ ls -l ./skills
--rwxr-xr-x 1 root root 1024 Oct 28 10:00 web_pentesting
--rwxr-xr-x 1 root root 1024 Oct 28 10:01 network_pentesting
--rwxr-xr-x 1 root root 1024 Oct 28 10:02 red_teaming
--rwxr-xr-x 1 root root 1024 Oct 28 10:03 bug_bounty
-
-$ cat ./message.txt
-Welcome to my profile!
-
-$ █
-```
+<div align="center">
+<img src="https://typer-for-readme.vercel.app/api/typer?text=$+whoami%0AMrMartinezDeveloper%0A%0A$+cat+./profile.txt%0AI+am+a+Cybersecurity+Engineer+and+Pentester...%0A%0A$+ls+-l+./skills%0A-rwxr-xr-x+web_pentesting%0A-rwxr-xr-x+network_pentesting%0A-rwxr-xr-x+red_teaming%0A%0A$+cat+./message.txt%0AWelcome+to+my+profile!%0A$&color=00FF00&prompt=00FF00" alt="Terminal typing animation" />
+</div>
 
 📬 Contact & Socials
 
