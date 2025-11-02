@@ -4,30 +4,25 @@ Hi there 👋<div align="center">
 
 
 
-```bash
 $ whoami
 MrMartinezDeveloper
-
 $ cat ./profile.txt
 
 I am a Cybersecurity Engineer and Pentester passionate about offensive security.
-
 My goal is to identify and exploit vulnerabilities to help organizations
-
 strengthen their security posture.
-
 $ ls -l ./skills
 -rwxr-xr-x 1 root root 1024 Oct 28 10:00 web_pentesting
 -rwxr-xr-x 1 root root 1024 Oct 28 10:01 network_pentesting
 -rwxr-xr-x 1 root root 1024 Oct 28 10:02 red_teaming
 -rwxr-xr-x 1 root root 1024 Oct 28 10:03 bug_bounty
-
 $ cat ./message.txt
 Welcome to my profile!
-
 $ █
-```
+
+
 📬 Contact & Socials
+
 <div align="center">
 <a href="https://es.linkedin.com/in/mrmartinezfullstack?trk=people-guest_people_search-card">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,6 +36,7 @@ $ █
 </div>
 
 📊 My GitHub Stats
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrMartinezDeveloper&show_icons=true&theme=tokyonight&icon_color=00FF00&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMartinezDeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -48,6 +44,7 @@ $ █
 
 🔧 My Toolkit
 These are some of the tools and technologies I use in my day-to-day:
+
 <p align="center">
 <img src="https://img.shields.io/badge/Kali_Linux-5E8CD3?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -62,6 +59,7 @@ These are some of the tools and technologies I use in my day-to-day:
 </p>
 
 🎯 Certifications
+
 <p align="center">
 <a href="[...enlace a tu ComTIA Security+...]">
 <img src="https://img.shields.io/badge/Security%2B-Comptia-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="ComTIA Security+" />
@@ -81,21 +79,25 @@ These are some of the tools and technologies I use in my day-to-day:
 </p>
 
 🏆 Achievements & Platforms
+
 <div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/[YOUR_THM_USERNAME].png" alt="TryHackMe Badge" width="300" />
 </div>
 
-- Top 1% on TryHackMe.
-- Pro Hacker Rank on Hack The Box.
-- +15 Vulnerabilities reported in Bug Bounty programs (HackerOne, Bugcrowd).
-- CTF Winner in multiple local and online competitions.
+Top 1% on TryHackMe.
+
+Pro Hacker Rank on Hack The Box.
+
++15 Vulnerabilities reported in Bug Bounty programs (HackerOne, Bugcrowd).
+
+CTF Winner in multiple local and online competitions.
 
 ⚠️ Legal Notice
 All content and tools in my repositories are for educational and ethical research purposes only.
 I am not responsible for the misuse of this information. Never perform penetration testing without explicit, written authorization.
 
-*"Security is not a product, but a process." — Bruce Schneier*
+"Security is not a product, but a process." — Bruce Schneier
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/MrMartinezDeveloper/count.svg" alt="Visitor Count" />
+<img src="httpsconfig://profile-counter.glitch.me/MrMartinezDeveloper/count.svg" alt="Visitor Count" />
 </div>
