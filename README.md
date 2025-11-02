@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/T0n0E4I.jpeg" alt="Máscara de Anonymous" width="400"/>
+  <img src="./mask.png" alt="Máscara de Anonymous" width="400"/>
 </p>
 
 📬 Contact & Socials
