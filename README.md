@@ -1,12 +1,17 @@
-Hi there 👋
+<div align="center">
+  Hi there 👋
+</div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I+am+MrMartinez;Welcome+to+my+repo;" alt="Typing animation" />
+</div>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Penetration+Tester;Red+Team+Operator;Bug+Bounty+Hunter" alt="Typing animation" />
 </div>
 
-<div align="center">
-  <img src="https://image.api.playstation.com/vulcan/ap/rnd/202008/1321/Lz0T13t12Vv6u9c1x4f7W9j8.png" alt="Máscara de Anonymous" width="400"/>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/T0n0E4I.jpeg" alt="Máscara de Anonymous" width="400"/>
+</p>
 
 📬 Contact & Socials
 
