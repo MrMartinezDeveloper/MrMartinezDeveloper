@@ -5,13 +5,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I+am+MrMartinez;Welcome+to+my+repo;" alt="Typing animation" />
 </div>
+<p align="center">
+  <img src="./mask.png" alt="Máscara de Anonymous" width="400"/>
+</p>|
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Penetration+Tester;Red+Team+Operator;Bug+Bounty+Hunter" alt="Typing animation" />
 </div>
-
-<p align="center">
-  <img src="./mask.png" alt="Máscara de Anonymous" width="400"/>
-</p>
 
 📬 Contact & Socials
 
