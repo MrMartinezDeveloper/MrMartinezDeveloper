@@ -1,25 +1,31 @@
-Hi there 👋<div align="center">
+Hi there, I'm Mr Martinez 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Penetration+Tester;Red+Team+Operator;Bug+Bounty+Hunter" alt="Typing animation" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Penetration+Tester;Red+Team+Operator;Bug+Bounty+Hunter" alt="Typing animation" />
+</div>
 
 
 
+```bash
 $ whoami
 MrMartinezDeveloper
-$ cat ./profile.txt
 
+$ cat ./profile.txt
 I am a Cybersecurity Engineer and Pentester passionate about offensive security.
 My goal is to identify and exploit vulnerabilities to help organizations
 strengthen their security posture.
+
 $ ls -l ./skills
 -rwxr-xr-x 1 root root 1024 Oct 28 10:00 web_pentesting
 -rwxr-xr-x 1 root root 1024 Oct 28 10:01 network_pentesting
 -rwxr-xr-x 1 root root 1024 Oct 28 10:02 red_teaming
 -rwxr-xr-x 1 root root 1024 Oct 28 10:03 bug_bounty
+
 $ cat ./message.txt
 Welcome to my profile!
-$ █
 
+$ █
+```
 
 📬 Contact & Socials
 
@@ -38,11 +44,27 @@ $ █
 📊 My GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrMartinezDeveloper&show_icons=true&theme=tokyonight&icon_color=00FF00&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrMartinezDeveloper&show_icons=true&theme=tokyonight&icon_color=00FF00&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMartinezDeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+💻 Languages I Code In
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
 🔧 My Toolkit
+
 These are some of the tools and technologies I use in my day-to-day:
 
 <p align="center">
@@ -52,10 +74,10 @@ These are some of the tools and technologies I use in my day-to-day:
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/Metasploit-DC143C?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-<img src="httpss://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
 🎯 Certifications
@@ -93,6 +115,7 @@ Pro Hacker Rank on Hack The Box.
 CTF Winner in multiple local and online competitions.
 
 ⚠️ Legal Notice
+
 All content and tools in my repositories are for educational and ethical research purposes only.
 I am not responsible for the misuse of this information. Never perform penetration testing without explicit, written authorization.
 
